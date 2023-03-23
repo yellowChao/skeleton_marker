@@ -1,6 +1,6 @@
 name: skeleton_marker
 description: easy mark widget，make the widget become a skeleton widget with animation transform.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/yellowChao/skeleton_marker
 
 environment:
