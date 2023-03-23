@@ -1,7 +1,7 @@
 name: skeleton_marker
-description: A new Flutter package project.
+description: easy mark widget，make the widget become a skeleton widget with animation transform.
 version: 0.0.1
-homepage:
+homepage: https://github.com/yellowChao/skeleton_marker
 
 environment:
   sdk: ">=2.12.0 <3.0.0"

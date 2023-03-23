@@ -44,7 +44,7 @@ class _MyHomePageState extends State<MyHomePage> {
   void initState() {
     super.initState();
 
-    Future.delayed(const Duration(milliseconds: 2000), () {
+    Future.delayed(const Duration(milliseconds: 15000), () {
       setState(() {
         imgUrl = "https://avatars2.githubusercontent.com/u/20411648?s=460&v=4";
         name = 'yellow';
