@@ -15,6 +15,11 @@ and the Flutter guide for
 
 easy mark widget, make the widget become a skeleton widget with animation transform
 
+
+<p>
+  <img src="https://github.com/yellowChao/skeleton_marker/blob/main/demo.gif?raw=true" height="50%" width="50%" />
+</p>
+
 ## Features
 
 * support custom switch animation
@@ -45,6 +50,8 @@ Container(
 
 // call markSkeleton by widget
 ```
+
+
 
 
 
